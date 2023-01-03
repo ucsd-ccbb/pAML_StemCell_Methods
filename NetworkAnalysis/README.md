@@ -24,7 +24,7 @@
 * Node Shading: LogFC, pAML vs pNL
 * Cytoscape file: PedAML_Stem_RBFOX2TargetOverlap_Network_LogFCNodeColor.cys
 
-# Network 4 (Figure S5c)
+### Network 4 (Figure S5c)
 * Cell type: HPC
 * Seed List: Top 200 Differentially Spliced (pAML vs pNL) RBFOX2 Target Genes
 * Background Network: STRING-DB v10.5 (ndex UUID: 275bd84e-3d18-11e8-a935-0ac135e8bacf)
