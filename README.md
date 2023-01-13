@@ -6,4 +6,4 @@ All computational code for execution of analyses described in Methods
 2. Differential Splicing
 3. RNA Editing Analysis
 4. Network Analysis
-4. Proteogenomic Analysis
+4. Single Cell Proteogenomic Analysis
